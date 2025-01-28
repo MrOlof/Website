@@ -1,7 +1,7 @@
 # SolveFeud - Puzzle Solver
 <br>
 
-<img src="https://i.imgur.com/bOa17Cr.png" height="200">
+<img src="https://i.imgur.com/r4McTwN.png" height="200">
 <br>
 
 ## Top 3 Features
